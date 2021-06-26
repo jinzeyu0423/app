@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/74a65574bf7a1205611f5232cb4b5ca4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3238e5084270918293614b75ac1bf560/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92230c6305e1301e8d7232269df29706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b7fe8b50df2dae838f09c5fab7762143/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ea69c5fad5a359a4e2f4a393597fe8c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ll/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d4eddb981dcf5b897b3841c4f788f74/AndroidManifest.xml:2:1-11:12
+MERGED from [org.litepal.android:java:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/fb3c58e4afdb5341af4fcd12aa911d87/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/55dec1fac6a603f745743c9f3993710d/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/64f9a106cbad1d0bf56a37f78e26ca09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5f563a993f0a1adcdd1b68aa2b86d61c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/41dfd112c89c4285a4f08f845a3d2119/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/04937512e112dfea13411bfc4f3c8004/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4f3e68a58e8f9fff540eac93ee27e2dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c225e0a9a43bc86f55c8f65657637429/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6240e6c188b71afd4526cde377292355/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6a59482e8ed55f8bb35da2744bdba05e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d8f8010726ba117c6eda950518198f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ebdd924f4d3164cc08640c68f46e24f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/effc5b5bbf9c3192fa7d5af530ce8bf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c52a76e38547026a2c512521b06cf1ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d1dc97156893d58f4ab05e98ccd9a6ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9088abc37dcda27acfe37d8f89386827/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1bfb1f0bb7bddb8ad0bc0180a09449d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8cd82aaa6a5df1ee922d962ae62cd3e7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e740ec2541b9ce7084830e5749db0c2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/21d06c0a319ca9a5aeca059962417c16/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f958e3e2ec9ee44a74eee2fe68e446/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7df8e6938ffecee3ffefbbfab8f0cec1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/308643144751355b7a7b140e34ae2aaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56f3bc23242f3844622df033d005998a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3a60ba950329e3e20713697912759511/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6ebf2a8c8fbae6557605e88ecaa1d977/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cad64b71c7b5e622220464e417d7f94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/46a2cba17111bfffd60a8f336408c34d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f876978eaa66d6732107edf0e0bf20d/AndroidManifest.xml:17:1-22:12
+MERGED from [org.litepal.android:core:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/4de68657a8d42fdfdf14956449776958/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:12:5-56:19
+MERGED from [com.android.support:design:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/74a65574bf7a1205611f5232cb4b5ca4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/74a65574bf7a1205611f5232cb4b5ca4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ll/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d4eddb981dcf5b897b3841c4f788f74/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ll/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d4eddb981dcf5b897b3841c4f788f74/AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:java:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/fb3c58e4afdb5341af4fcd12aa911d87/AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:java:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/fb3c58e4afdb5341af4fcd12aa911d87/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/55dec1fac6a603f745743c9f3993710d/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/55dec1fac6a603f745743c9f3993710d/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8cd82aaa6a5df1ee922d962ae62cd3e7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8cd82aaa6a5df1ee922d962ae62cd3e7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/21d06c0a319ca9a5aeca059962417c16/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/21d06c0a319ca9a5aeca059962417c16/AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:core:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/4de68657a8d42fdfdf14956449776958/AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:core:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/4de68657a8d42fdfdf14956449776958/AndroidManifest.xml:11:5-12:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:16:9-31
+	tools:ignore
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:20:9-48
+	android:roundIcon
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:13:9-54
+activity#com.example.WodeWordWorld.NetWordActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:21:19-50
+activity#com.example.WodeWordWorld.MainActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:22:9-30:20
+	android:launchMode
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:28:27-74
+activity#com.example.WodeWordWorld.SearchActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:31:19-49
+activity#com.example.WodeWordWorld.TestActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:32:19-47
+activity#com.example.WodeWordWorld.TestResultActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:33:19-53
+activity#com.example.test.AboutActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:34:19-64
+activity#com.tencent.tauth.AuthActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:35:9-48:20
+	tools:ignore
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent1108738063
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:40:13-47:29
+action#android.intent.action.VIEW
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:44:27-75
+data
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:46:17-60
+	android:scheme
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:46:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:49:9-52:75
+	android:screenOrientation
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:51:13-49
+	android:theme
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:50:13-69
+activity#com.example.WodeWordWorld.ReviewActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:53:9-52
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:53:19-49
+activity#com.example.WodeWordWorld.ReviewEmptyActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:54:9-57
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:54:19-54
+activity#com.example.WodeWordWorld.ListTestActivity
+ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:55:9-54
+	android:name
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml:55:19-51
+uses-sdk
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/74a65574bf7a1205611f5232cb4b5ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/74a65574bf7a1205611f5232cb4b5ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3238e5084270918293614b75ac1bf560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3238e5084270918293614b75ac1bf560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92230c6305e1301e8d7232269df29706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/92230c6305e1301e8d7232269df29706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b7fe8b50df2dae838f09c5fab7762143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/b7fe8b50df2dae838f09c5fab7762143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ea69c5fad5a359a4e2f4a393597fe8c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ea69c5fad5a359a4e2f4a393597fe8c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ll/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d4eddb981dcf5b897b3841c4f788f74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ll/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5d4eddb981dcf5b897b3841c4f788f74/AndroidManifest.xml:5:5-7:41
+MERGED from [org.litepal.android:java:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/fb3c58e4afdb5341af4fcd12aa911d87/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:java:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/fb3c58e4afdb5341af4fcd12aa911d87/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/55dec1fac6a603f745743c9f3993710d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/55dec1fac6a603f745743c9f3993710d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/64f9a106cbad1d0bf56a37f78e26ca09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/64f9a106cbad1d0bf56a37f78e26ca09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5f563a993f0a1adcdd1b68aa2b86d61c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5f563a993f0a1adcdd1b68aa2b86d61c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/41dfd112c89c4285a4f08f845a3d2119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/41dfd112c89c4285a4f08f845a3d2119/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/04937512e112dfea13411bfc4f3c8004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/04937512e112dfea13411bfc4f3c8004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4f3e68a58e8f9fff540eac93ee27e2dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/4f3e68a58e8f9fff540eac93ee27e2dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c225e0a9a43bc86f55c8f65657637429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c225e0a9a43bc86f55c8f65657637429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6240e6c188b71afd4526cde377292355/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6240e6c188b71afd4526cde377292355/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6a59482e8ed55f8bb35da2744bdba05e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6a59482e8ed55f8bb35da2744bdba05e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d8f8010726ba117c6eda950518198f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9d8f8010726ba117c6eda950518198f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ebdd924f4d3164cc08640c68f46e24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ebdd924f4d3164cc08640c68f46e24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/effc5b5bbf9c3192fa7d5af530ce8bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/effc5b5bbf9c3192fa7d5af530ce8bf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c52a76e38547026a2c512521b06cf1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c52a76e38547026a2c512521b06cf1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d1dc97156893d58f4ab05e98ccd9a6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d1dc97156893d58f4ab05e98ccd9a6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9088abc37dcda27acfe37d8f89386827/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9088abc37dcda27acfe37d8f89386827/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1bfb1f0bb7bddb8ad0bc0180a09449d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1bfb1f0bb7bddb8ad0bc0180a09449d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7e45353e381b08fdfe78f127975d7910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8cd82aaa6a5df1ee922d962ae62cd3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8cd82aaa6a5df1ee922d962ae62cd3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e740ec2541b9ce7084830e5749db0c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e740ec2541b9ce7084830e5749db0c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/21d06c0a319ca9a5aeca059962417c16/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/21d06c0a319ca9a5aeca059962417c16/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f958e3e2ec9ee44a74eee2fe68e446/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/41f958e3e2ec9ee44a74eee2fe68e446/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7df8e6938ffecee3ffefbbfab8f0cec1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7df8e6938ffecee3ffefbbfab8f0cec1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/308643144751355b7a7b140e34ae2aaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/308643144751355b7a7b140e34ae2aaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56f3bc23242f3844622df033d005998a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/56f3bc23242f3844622df033d005998a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3a60ba950329e3e20713697912759511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3a60ba950329e3e20713697912759511/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6ebf2a8c8fbae6557605e88ecaa1d977/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6ebf2a8c8fbae6557605e88ecaa1d977/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cad64b71c7b5e622220464e417d7f94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cad64b71c7b5e622220464e417d7f94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/46a2cba17111bfffd60a8f336408c34d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/46a2cba17111bfffd60a8f336408c34d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f876978eaa66d6732107edf0e0bf20d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ll/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2f876978eaa66d6732107edf0e0bf20d/AndroidManifest.xml:20:5-44
+MERGED from [org.litepal.android:core:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/4de68657a8d42fdfdf14956449776958/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:3.0.0] /Users/ll/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/4de68657a8d42fdfdf14956449776958/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		ADDED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ll/学习/Android毕业设计/WWW /app/src/main/AndroidManifest.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="mydict"></dbname>
+    <version value="36"></version>
+    <list>
+        <mapping class="com.example.litepal.Word"></mapping>
+        <mapping class="com.example.litepal.WordBuilder"></mapping>
+        <mapping class="com.example.litepal.HsWord"></mapping>
+        <mapping class="com.example.litepal.Score"></mapping>
+        <mapping class="com.example.litepal.WordsBuilder"></mapping>
+
+
+
+    </list>
+
+</litepal>

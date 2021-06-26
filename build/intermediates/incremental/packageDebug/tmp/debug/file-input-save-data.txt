@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jan 06 20:53:47 CST 2021
+1.base=/Users/ll/学习/Android毕业设计/WWW /app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/Users/ll/学习/Android毕业设计/WWW /app/build/intermediates/transforms/dexMerger/debug/0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/ll/学习/Android毕业设计/WWW /app/build/intermediates/transforms/dexMerger/debug/1
+2.baseType=DIRECTORY
+1.path=litepal.xml
