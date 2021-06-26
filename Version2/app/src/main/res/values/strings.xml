@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Version1.1</string>
-    <string name="title_activity_word_detial">WordDetial</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="wordrecite">Word Recite</string>
-</resources>
