@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:fitsSystemWindows="true"
+        android:background="@drawable/shape2"
+        >
+
+        <EditText
+            android:id="@+id/wodeedit1"
+            android:layout_width="match_parent"
+            android:layout_height="41dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/shape3"
+            android:digits="abcdefghijklmnopqrstuvwxyz"
+            android:hint="请输入您要查询的单词"
+            android:inputType="textNoSuggestions"
+            android:paddingLeft="10dp"
+            android:textColor="#000000"
+            android:textColorHint="#ffffff"
+            android:textSize="18sp" />
+
+
+        <ImageButton
+            android:id="@+id/wodeimg_delete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="13dp"
+            android:background="@android:color/transparent"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/frag_wode"
+        android:layout_width="match_parent"
+        android:layout_height="645dp">
+
+    </FrameLayout>
+    <include layout="@layout/navigation"/>
+</LinearLayout>
+
+
