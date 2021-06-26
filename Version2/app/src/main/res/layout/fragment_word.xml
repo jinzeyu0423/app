@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WordFragment"
+    android:orientation="vertical"
+    android:id="@+id/wordfragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:text="生词本"
+        android:textSize="20sp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/holo_red_dark"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+    </android.support.v7.widget.RecyclerView>
+    <include layout="@layout/navigation"/>
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WodeActivity1"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:fitsSystemWindows="true"
+        android:background="@drawable/shape2"
+        >
+
+
+        <EditText
+            android:id="@+id/seaedit1"
+            android:layout_width="match_parent"
+            android:layout_height="41dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/shape3"
+            android:digits="abcdefghijklmnopqrstuvwxyz"
+            android:hint="请输入您要查询的单词"
+            android:inputType="textNoSuggestions"
+            android:paddingLeft="35dp"
+            android:textColor="#000000"
+            android:textColorHint="#ffffff"
+            android:textSize="18sp" />
+        <ImageButton
+            android:id="@+id/seaimg_back"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="12dp"
+            android:background="@android:color/transparent"
+            />
+
+        <ImageButton
+            android:id="@+id/seaimg_delete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="12dp"
+            android:background="@android:color/transparent"
+            android:visibility="gone"
+            />
+    </RelativeLayout>
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
